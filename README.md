@@ -19,30 +19,25 @@
 ![obraz](https://github.com/user-attachments/assets/93b1c0eb-133e-4ca8-9084-7341d14ab204)
 
 
-## Logo
-surveil.camera
-
-## Motto
-Surveillance as a Service
-
-## Description
-voice-controlled human assistant as a service for the CCTV industry for video monitoring systems
-
-The logo consists of a stylized camera lens integrated with an eye, symbolizing surveillance and watchfulness. 
-The design is minimalist and modern, using simple shapes to create a memorable and impactful image.
-
-
 
 ### Logo Specification for Surveil Camera
 
-**Logo Name:** Surveil Camera
+#### Logo
+surveil.camera
 
-**Slogan:** Surveillance as a Service
+#### Motto
+Surveillance as a Service
+
+#### Offer
+voice-controlled human assistant as a service for the CCTV industry for video monitoring systems
+
 
 ---
 
 #### 1. **Logo Description**
-The Surveil Camera logo combines modernity and clarity through a minimalist design. The logo features an eye-shaped outline encasing a circular, abstract design. This design is characterized by bold colors (red, black, and white) contrasted with subtle grey accents. The central circle within the eye shape suggests a lens or camera, enhancing the association with surveillance.
+
+The Surveil Camera logo combines modernity and clarity through a minimalist design. 
+The logo features an eye-shaped outline encasing a circular, abstract design. This design is characterized by bold colors (red, black, and white) contrasted with subtle grey accents. The central circle within the eye shape suggests a lens or camera, enhancing the association with surveillance.
 
 ---
 

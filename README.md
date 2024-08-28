@@ -1,4 +1,5 @@
-![obraz](https://github.com/user-attachments/assets/10efc0cf-ed29-4570-8ffa-e8c6ead9dfa0)
+![obraz](https://github.com/user-attachments/assets/05400002-e4de-4f3c-9835-0c577391741b)
+
 
 # [logo.surveil.camera](http://logo.surveil.camera)
 
